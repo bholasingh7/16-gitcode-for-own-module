@@ -2,7 +2,7 @@
 
 ## Overview
 
-This terraform module helps to create a vpc
+This terraform module helps to create a vpc.
 
 ## Features
 
